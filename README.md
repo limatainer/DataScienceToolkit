@@ -1,8 +1,13 @@
 # All projects created since I started coding :clipboard:
 
-:bow: This is my portfolio
+:bow:
+</br>
+<img src="https://github.com/limatainer/DataScienceToolkit/blob/master/templateci.png"/>
+</br>
+<img src="https://github.com/limatainer/DataScienceToolkit/blob/master/templateci2.png"/>
+</br>
 
-## Projects
+## Under construction
 
 Check each project and it's progress :octocat:
 
