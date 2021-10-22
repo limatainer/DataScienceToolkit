@@ -1,0 +1,11 @@
+.main-header .logo {
+  font-family: "Roboto", Arial, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.sidebar-menu {
+	padding-top:65px;
+	font-weight: bold;
+	font-size: 20px;
+}
